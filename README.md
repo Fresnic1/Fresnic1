@@ -5,15 +5,12 @@
 
 ### IT ENGINEER | CYBERSECURITY | DEVELOPER
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=FF3344&center=true&vCenter=true&width=700&height=55&lines=Initializing+FRESNIC+environment...;IT+Engineering+%7C+Cybersecurity;Building+tools.+Securing+systems.;Exploring+networks.+Automating+tasks." alt="Terminal Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=FF3344&center=true&vCenter=true&width=800&height=55&lines=%3E+Initializing+FRESNIC+environment...;%3E+IT+Engineering+%7C+Cybersecurity;%3E+Building+tools.+Securing+systems.;%3E+Exploring+networks.+Automating+tasks." alt="Terminal animation" />
 
 <br/>
 
-<a href="https://github.com/Fresnic1">
-<img src="https://img.shields.io/github/followers/Fresnic1?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=cc2233&labelColor=161b22" alt="Followers"/>
-</a>
-
-<img src="https://img.shields.io/badge/STATUS-ONLINE-cc2233?style=for-the-badge&labelColor=161b22" alt="Status"/>
+![Followers](https://img.shields.io/github/followers/Fresnic1?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=cc2233&labelColor=161b22)
+![Status](https://img.shields.io/badge/STATUS-ONLINE-cc2233?style=for-the-badge&labelColor=161b22)
 
 </div>
 
@@ -21,37 +18,23 @@
 
 ## `> whoami`
 
-<div align="center">
+```text
+$ whoami
+fresnic
 
-| FIELD | INFORMATION |
-|:---|:---|
-| **Username** | `Fresnic` |
-| **Role** | IT Engineer |
-| **Focus** | Cybersecurity & System Administration |
-| **Interests** | Networking, Linux, Security, Automation |
-| **Development** | Python, PowerShell, Bash |
-| **Main Project** | FR_UNI |
-| **Status** | Learning & Building |
+$ cat /etc/profile
 
-</div>
+ROLE        : IT Engineer
+SPECIALTY   : Cybersecurity & System Administration
+INTERESTS   : Networking, Linux, Automation, Security
+DEVELOPMENT : Python, PowerShell, Bash
+PROJECT     : FR_UNI
+STATUS      : Always learning
+```
 
-### About Me
+I'm an **IT Engineer** with a strong interest in cybersecurity, system administration, networking, and software development.
 
-I'm an **IT Engineer** focused on system administration, networking, cybersecurity, and software development.
-
-I enjoy solving technical problems, managing IT infrastructure, exploring Linux environments, and developing practical tools that simplify everyday administration.
-
-My experience includes:
-
-- Windows administration and troubleshooting
-- Active Directory user and account management
-- Network diagnostics and troubleshooting
-- DNS, DHCP, TCP/IP and VPN technologies
-- Microsoft 365 environments
-- Linux system administration fundamentals
-- Python and PowerShell scripting
-- Cybersecurity fundamentals and security monitoring
-- Docker and self-hosted infrastructure
+I enjoy troubleshooting technical problems, building practical IT tools, experimenting with Linux environments, and improving everyday workflows through automation.
 
 Currently developing **FR_UNI**, a Python-based IT administration and diagnostic toolkit.
 
@@ -94,9 +77,9 @@ Currently developing **FR_UNI**, a Python-based IT administration and diagnostic
 
 **Unified IT Administration & Diagnostic Toolkit**
 
-FR_UNI is a Python-based desktop application designed to combine multiple IT administration, monitoring, and troubleshooting tools into one environment.
+A Python-based desktop application designed to combine multiple IT administration and troubleshooting tools into one environment.
 
-**Technology Stack**
+**Technology stack**
 
 `Python` `PySide6` `Qt/QML` `Windows`
 
@@ -131,7 +114,7 @@ A terminal-inspired project exploring command-line interfaces, custom commands, 
 
 **Local Password Manager**
 
-A desktop password management project exploring secure credential organization and application development.
+A desktop password management project exploring credential organization and secure application design.
 
 **Stack:** `Python` `Desktop GUI`
 
@@ -141,27 +124,28 @@ A desktop password management project exploring secure credential organization a
 
 **Personal Infrastructure & Cybersecurity Lab**
 
-A hands-on learning environment for Linux administration, networking, virtualization, and self-hosted infrastructure.
+A hands-on environment for Linux administration, networking, virtualization, and self-hosted infrastructure.
 
-**Technologies**
-
-`Ubuntu Server` `Docker Compose` `Nginx` `Uptime Kuma` `cAdvisor` `Tailscale`
+**Stack:** `Ubuntu Server` `Docker Compose` `Nginx` `Uptime Kuma` `cAdvisor` `Tailscale`
 
 ---
 
 ## `> cat cybersecurity.log`
 
-| DOMAIN | EXPERIENCE |
-|:---|:---|
-| Windows Administration | User support, troubleshooting, configuration |
-| Active Directory | User management, password resets, account access |
-| Networking | TCP/IP, DNS, DHCP, routing fundamentals |
-| Linux | CLI, services, system administration |
-| Cybersecurity | Security monitoring and defensive fundamentals |
-| Incident Response | Fundamentals and investigation workflows |
-| Penetration Testing | Foundational techniques and methodology |
-| Automation | Python, PowerShell and Bash |
-| Infrastructure | Docker, virtualization and homelab |
+```text
+[+] Windows System Administration
+[+] Active Directory Management
+[+] Linux Fundamentals
+[+] Network Troubleshooting
+[+] TCP/IP, DNS, DHCP & VPN
+[+] Security Monitoring Fundamentals
+[+] Incident Response Fundamentals
+[+] Penetration Testing Fundamentals
+[+] Python & PowerShell Automation
+[+] Docker & Homelab Infrastructure
+
+[*] Expanding knowledge every day...
+```
 
 ---
 
@@ -169,13 +153,13 @@ A hands-on learning environment for Linux administration, networking, virtualiza
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Fresnic1&show_icons=true&theme=dark&hide_border=true&title_color=ff3344&icon_color=ff3344&text_color=c9d1d9" height="170" alt="GitHub Statistics"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Fresnic1&show_icons=true&theme=dark&hide_border=true&title_color=ff3344&icon_color=ff3344&text_color=c9d1d9" height="170" alt="GitHub Stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fresnic1&layout=compact&theme=dark&hide_border=true&title_color=ff3344&text_color=c9d1d9" height="170" alt="Most Used Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fresnic1&layout=compact&theme=dark&hide_border=true&title_color=ff3344&text_color=c9d1d9" height="170" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Fresnic1&theme=dark&hide_border=true&ring=FF3344&fire=FF3344&currStreakLabel=FF3344&sideLabels=C9D1D9" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=Fresnic1&theme=dark&hide_border=true&ring=FF3344&fire=FF3344&currStreakLabel=FF3344" alt="GitHub Streak"/>
 
 </div>
 
@@ -193,39 +177,37 @@ A hands-on learning environment for Linux administration, networking, virtualiza
 
 ## `> cat current_focus.md`
 
-| PRIORITY | CURRENT FOCUS |
-|:---:|:---|
-| `01` | Linux Server Administration |
-| `02` | Network Engineering |
-| `03` | Cybersecurity & Defensive Security |
-| `04` | Python Application Development |
-| `05` | IT Automation |
-| `06` | Docker & Self-Hosted Infrastructure |
-| `07` | FR_UNI Development |
+```text
+[01] Linux Server Administration
+[02] Network Engineering
+[03] Cybersecurity & Defensive Security
+[04] Python Application Development
+[05] IT Automation
+[06] Docker & Self-Hosted Infrastructure
+[07] FR_UNI Development
+```
 
 ---
 
 ## `> cat education.txt`
 
-### Cybersecurity Training
-
 **CodeAcademy Cyber Security Program**
 
 `504 Hours` | `Dec 2024 - Jul 2025`
 
-Areas covered:
+```text
+[+] Linux & Windows Administration
+[+] Networking & TCP/IP
+[+] Active Directory
+[+] Penetration Testing Fundamentals
+[+] Security Monitoring & SIEM
+[+] Incident Response
+[+] Digital Forensics
+[+] Python & PowerShell
+[+] Cryptography Fundamentals
+```
 
-- Linux and Windows administration
-- Computer networking
-- Active Directory
-- Penetration testing fundamentals
-- Security monitoring and SIEM
-- Incident response
-- Digital forensics
-- Python and PowerShell
-- Cryptography fundamentals
-
-### Practical Learning
+**Additional Learning**
 
 - TryHackMe cybersecurity training
 - Linux administration homelab
@@ -245,13 +227,13 @@ Areas covered:
 
 ### `> SYSTEM STATUS`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1200&color=FF3344&center=true&vCenter=true&width=550&lines=%5B%2B%5D+Building+tools...;%5B%2B%5D+Understanding+systems...;%5B%2B%5D+Improving+security...;%5B+SYSTEM+ONLINE+%5D" alt="System Status Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1200&color=FF3344&center=true&vCenter=true&width=600&height=50&lines=%5B%2B%5D+Building+tools...;%5B%2B%5D+Understanding+systems...;%5B%2B%5D+Improving+security...;%5B+SYSTEM+ONLINE+%5D" alt="System Status"/>
 
 <br/>
 
 `FR. SYSTEM` • `STATUS: ONLINE` • `FRESNIC1`
 
-<br/>
+<br/><br/>
 
 <sub>© 2026 FRESNIC | END OF FILE</sub>
 
